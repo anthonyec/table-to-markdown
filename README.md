@@ -1,4 +1,4 @@
-# S.T.R.I.D.E HTML Table to Markdown
+# S.T.R.I.D.E Table to Markdown
 
 ## Setup
 
