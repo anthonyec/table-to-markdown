@@ -1,5 +1,9 @@
 # S.T.R.I.D.E HTML Table to Markdown
 
+## Setup
+
+- `npm install`
+
 ## How to
 
 1. Go to the S.T.R.I.D.E confluence page
@@ -11,4 +15,4 @@
 
 A `output.md` markdown file will be generated. 
 
-Preview this in a markdown viewer and copy and paste to a Dropbox Paper doc to preserve the formatting!
+Preview this in a markdown viewer and copy and paste to a Dropbox Paper doc to preserve the formatting.
